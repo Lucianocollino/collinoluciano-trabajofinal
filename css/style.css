@@ -1,0 +1,17 @@
+/*comentario
+
+etiqueta, propiedad , valor*/
+bg-body-tertiary{
+    background-color: aquamarine;
+} 
+   
+.fondo-negro{
+    background-color: black
+    
+}
+
+h1{
+    background-color: black;
+    display: flex;
+}
+
