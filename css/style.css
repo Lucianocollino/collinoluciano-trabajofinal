@@ -1,17 +1,88 @@
 /*comentario
 
 etiqueta, propiedad , valor*/
-bg-body-tertiary{
-    background-color: aquamarine;
-} 
-   
-.fondo-negro{
+
+
+    
+
+
+h1{
+    
+    text-align: center;
     background-color: black
+  
+}
+
+
+   
+   
+
+.navbar {
+  flex-wrap: nowrap;
+    
+    background-color: rgb(237, 237, 237);
     
 }
 
-h1{
-    background-color: black;
+.navbar-toggler{
+    
+   
     display: flex;
+    background-color: white;
+
+    
+}
+
+.nav-buenas{
+    text-decoration: none;
+    display: flex;
+    padding-left: 1rem ;
+    font-size: larger;
+    color: black;
+    
+}
+
+footer{
+    background-color: black;
+    padding: 2%;
+   
+    }
+footer a{
+    align-items: center;
+    align-content: space-around;
+    
+    padding-left: 5rem;
+   width: 5%;
+}
+
+
+.h1nosotros{
+   background-color: black;
+    color: white;
+    font-size: xx-large;
+    padding: 2rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+
+}
+
+.cardbuenas{
+    margin-left: 9%;
+    margin-bottom: 9%;
+    padding: 1rem;
+    align-items: center;
+    text-align: start;
+    border-color: black;
+    border-width: 10%;
+    border-style: solid;
+    border-radius: 1rem;
+    
+
+}
+.card-text-buenas{
+    padding: 2%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    
 }
 
