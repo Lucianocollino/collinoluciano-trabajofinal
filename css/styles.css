@@ -1,0 +1,156 @@
+/*comentario
+
+etiqueta, propiedad , valor*/
+.nav-buenas {
+  text-decoration: none;
+  display: flex;
+  padding-left: 3rem;
+  font-size: larger;
+  color: rgb(255, 255, 255);
+  transition: 500ms;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-size: 120%;
+  margin-right: 2rem;
+}
+.nav-buenas:hover {
+  color: rgba(0, 225, 255, 0.486);
+}
+
+.navbar {
+  flex-wrap: nowrap;
+  background: rgb(0, 115, 127);
+  background: linear-gradient(121deg, rgb(0, 115, 127) 0%, rgb(0, 61, 76) 25%, rgb(0, 0, 18) 61%, rgb(0, 92, 81) 100%);
+}
+
+.proyectos-div {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background: rgb(0, 115, 127);
+  background: linear-gradient(121deg, rgb(0, 115, 127) 0%, rgb(0, 61, 76) 25%, rgb(0, 0, 18) 61%, rgb(0, 92, 81) 100%);
+  color: white;
+}
+
+.h2proyectos {
+  font-size: 6rem;
+  padding: 10%;
+}
+
+.h4principal {
+  padding: 1rem;
+  font-size: 110%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+
+.h1logobuenas {
+  background-color: black;
+}
+
+.cardbuenas {
+  margin-left: 9%;
+  margin-bottom: 9%;
+  padding: 1rem;
+  align-items: center;
+  text-align: start;
+  border-color: black;
+  border-width: 10%;
+  border-style: solid;
+  border-radius: 1rem;
+}
+
+.card-text-buenas {
+  padding: 2%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bolder;
+}
+
+.card-servicios {
+  background-color: black;
+  padding: 5%;
+  border-style: solid;
+  border-color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.card-tit-serv {
+  font-size: x-large;
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.card-trabajos {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: xx-large;
+  text-align: center;
+  font-style: normal;
+  font-weight: bolder;
+}
+
+.card-text-trabajos {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: xx-large;
+  font-style: italic;
+}
+
+.card-contacto {
+  padding-left: 10rem;
+  display: flex;
+  align-items: center;
+  padding-top: 1rem;
+}
+
+.card-text-direccion {
+  border: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.h1nosotros {
+  background-color: black;
+  color: white;
+  font-size: xx-large;
+  padding: 2rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+}
+
+body {
+  background: rgb(0, 115, 127);
+  background: linear-gradient(121deg, rgb(0, 115, 127) 0%, rgb(0, 61, 76) 25%, rgb(0, 0, 18) 61%, rgb(0, 92, 81) 100%);
+}
+
+.carrusel-trabajos {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 5%;
+  border-color: white;
+  border-width: 5%;
+  border-style: solid;
+  border-radius: 5%;
+  margin: 2%;
+  background-color: black;
+}
+
+footer {
+  padding: 2%;
+  background: black;
+}
+
+footer a {
+  align-items: center;
+  align-content: space-around;
+  padding-left: 5rem;
+  width: 5%;
+}
+
+.mapa {
+  display: flex;
+}
+
+/*# sourceMappingURL=styles.css.map */
