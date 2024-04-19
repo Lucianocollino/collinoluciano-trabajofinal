@@ -65,7 +65,8 @@ etiqueta, propiedad , valor*/
 .card-text-buenas {
   padding: 2%;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-weight: bolder;
+  font-weight: normal;
+  color: white;
 }
 
 .card-servicios {
@@ -125,6 +126,19 @@ body {
   background: linear-gradient(121deg, rgb(0, 115, 127) 0%, rgb(0, 61, 76) 25%, rgb(0, 0, 18) 61%, rgb(0, 92, 81) 100%);
 }
 
+.h2trabajos {
+  color: rgb(136, 255, 245);
+  padding: 1rem;
+  font-size: 180%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: italic;
+  padding-inline: 10rem;
+  text-shadow: 6px 5px 4px rgba(0, 0, 0, 0.8);
+}
+
 .carrusel-trabajos {
   padding-left: 15%;
   padding-right: 15%;
@@ -147,6 +161,10 @@ footer a {
   align-content: space-around;
   padding-left: 5rem;
   width: 5%;
+}
+
+.div-trabajos {
+  background-color: black;
 }
 
 .mapa {
