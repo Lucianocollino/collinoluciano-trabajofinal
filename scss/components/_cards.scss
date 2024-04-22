@@ -51,9 +51,10 @@ font-style: italic;
 }
 
 .card-contacto{
-    padding-left: 10rem;
-    display: flex;
-    align-items: center;
+   
+  display:flex;
+  align-items: center;
+  justify-content: center;
     padding-top: 1rem;
    
 
@@ -61,4 +62,9 @@ font-style: italic;
 
 .card-text-direccion{
     border: 1rem;
+}
+
+.card-direccion{
+    padding: 1rem;
+    
 }
