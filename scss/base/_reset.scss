@@ -7,7 +7,8 @@ h1{
 
 
 .h1nosotros{
-   background-color: black;
+   
+
     color: white;
     font-size: xx-large;
     padding: 2rem;
@@ -32,4 +33,28 @@ background: linear-gradient(121deg, rgba(0,115,127,1) 0%, rgba(0,61,76,1) 25%, r
     font-style: italic;
     padding-inline: 10rem;
     text-shadow: 6px 5px 4px rgba(0,0,0,0.80);
+}
+
+.h3carteleria{
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 300%;
+    margin-inline: 30%;
+}
+
+
+
+.h3presupuesto{
+    color: rgb(136, 255, 245);
+    padding: 1rem;
+    font-size: 180%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    padding-inline: 10rem;
+    text-shadow: 6px 5px 4px rgba(0,0,0,0.80);
+
+
 }
